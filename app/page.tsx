@@ -192,14 +192,14 @@ export default function FalcoDevHomePage() {
       skills: ["Figma", "Adobe Suite", "UI/UX", "Branding", "Prototyping", "Wordpress Designing"],
       color: "from-pink-500 to-rose-500",
     },
-    {
+    /* {
       name: "Shahmer Abbas Khan",
       role: "App Developer",
       bio: "Digital marketing expert with proven track record of growing businesses online.",
       avatar: "/placeholder.svg?height=120&width=120",
       skills: ["SEO", "PPC", "Analytics", "Content"],
       color: "from-green-500 to-emerald-500",
-    },
+    }, */
     {
       name: "Rana Ahmad",
       role: "Project Manager",
